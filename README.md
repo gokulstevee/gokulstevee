@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gokulan.
 - 👀 I’m interested in adventuring the TECH WORLD.
 - 🌱 I’m currently learning Blockchain.
-- 💞️ I’m very much excisted to collaborate with your projects on WEB TECHNOLOGY. Feel free to reach out me. 
+- 💞️ I’m very much excisted to collaborate with your projects on WEB TECHNOLOGIES. Feel free to reach me. 
 - 📫 How to reach me 
            EMail: gokulstevee@gmail.com
            Linkedin: https://www.linkedin.com/in/gokulan-s-245a991aa/
