@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gokulan.
-- 👀 I’m interested in adventuring the TECH WORLD.
+- 👀 I’m interested to be a part of TECH WORLD.
 - 🌱 I’m currently learning Blockchain.
 - 💞️ I’m very much excisted to collaborate with your projects on WEB TECHNOLOGIES. Feel free to reach me. 
 - 📫 How to reach me 
