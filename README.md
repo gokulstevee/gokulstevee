@@ -2,7 +2,7 @@
 
 - 👀 I’m intent to be a part of TECH WORLD.
 
-- 🌱 I’m currently into Blockchain technology.
+- 🌱 I’m a full stack developer with expertise in many Nodejs Technologies
 
 - 💞️ I’m very much excisted to collaborate with your projects on WEB TECHNOLOGIES and BLOCKCHAIN. Feel free to reach me. 
 
